@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **hchaturvedi320@gmail.com**
 
-<h3 align="left">Also fine me at:</h3>
+<h3 align="left">Also find me at:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/harsh-chaturvedi-2064a3264" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harsh-chaturvedi-2064a3264" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/hchaturvedi320" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="hchaturvedi320" height="30" width="40" /></a>
