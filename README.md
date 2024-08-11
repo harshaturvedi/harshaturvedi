@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Harsh!</h1>
 <h3 align="center">A passionate Fullstack developer from India.</h3>
 
-- 🔭 I’m currently learning **Svelte**!
+- 🔭 Fullstack .Net Dev at OkRx, Canada!
 
 - 👯 I’m looking to collaborate on **Fullstack Projects**
 
